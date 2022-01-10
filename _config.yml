@@ -7,12 +7,12 @@
 
 # Site settings
 title: "Help Center"
-email: gusquinalha@gmail.com
-description: "Simple and flexible Jekyll theme for help center."
+email: webmaster@rdapassociation.org
+description: "Internal RDAP Guide to working with the Web Committee"
 baseurl: "/rdap-web-committee-guide"
-url: "http://quinalha.me"
-twitter_username: "gustavoquinalha"
-github_username:  "gustavoquinalha"
+#url: "http://quinalha.me"
+#twitter_username: "gustavoquinalha"
+github_username:  "sauuyer"
 color_theme:  "#0081ff"
 color_text:  "#fff"
 language:  "en"
