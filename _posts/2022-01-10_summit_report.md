@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'RDAP Summit Report'
-description: 'Status report for the next upcoming RDAP Summit'
+title: 'RDAP Event Status Reports'
+description: 'Real-time reports for RDAP hosted events'
 date:   2022-01-10 17:46:41 -0300
-categories: events; calendar; registration, summit
+categories: events; calendar; registration; summit; journal club;
 by: 'Sawyer Newman'
 icon: 'grid'
 questions:
