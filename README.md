@@ -1,7 +1,11 @@
+# Web Committee Quick Guide Website
+Link to live page: https://sauuyer.github.io/rdap-web-committee-guide/
+
+Notes for developers:
 * Icons can be found here: rdap-web-committee-guide/_sass/_icons.scss
 
 ### Jekyll | Help Center Theme
-Simple and responsive Jekyll theme for help center.
+This site was built using the simple and responsive Jekyll theme for help center.
 * [Demo online](https://gustavoquinalha.github.io/jekyll-help-center-theme/)
 
 ##### Editing the color theme: 
