@@ -3,6 +3,7 @@ Link to live page: https://sauuyer.github.io/rdap-web-committee-guide/
 
 Notes for developers:
 * Icons can be found here: rdap-web-committee-guide/_sass/_icons.scss
+* If the tables do not render in mark down, it is most likely because you've gone over the word/character allowance
 
 ### Jekyll | Help Center Theme
 This site was built using the simple and responsive Jekyll theme for help center.
